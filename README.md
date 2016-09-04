@@ -13,6 +13,8 @@ Only two products available for this demo.
 
 ## Usage
 ```
-tbc
+- sbt
+> run "apple" "apple" "orange"
+[ apple, apple, orange ] => £1.1
 
 ```
